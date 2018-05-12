@@ -1,0 +1,28 @@
+_repo: The-Blue-Book-of-Chess--13-Teaching-the-Rudiments-of-the-Game-and-Giving-an-Analysis-of-All-t__16377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Staunton, Howard
+    birthdate: 1810
+    deathdate: 1874
+    gutenberg_agent_id: '6661'
+    url: http://www.gutenberg.org/2009/agents/6661
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Staunton
+description: ''
+gutenberg_issued: '2005-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chess'
+- !lcc 'GV'
+title: "The Blue Book of Chess\r\nTeaching the Rudiments of the Game, and Giving an\
+  \ Analysis of All the Recognized Openings"
+url: http://www.gutenberg.org/ebooks/16377
